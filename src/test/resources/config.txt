@@ -1,0 +1,4 @@
+paraBank.baseUrl=https://parabank.parasoft.com
+paraBank.username=automationtest
+paraBank.password=automationtest
+browserName=headless
